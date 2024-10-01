@@ -1,4 +1,5 @@
 Power BI Projects Repository
+
 Welcome to my Power BI Projects repository! This space contains a variety of projects, dashboards, and reports created using Power BI, focusing on data analysis, visualization, and storytelling.
 
 Table of Contents
